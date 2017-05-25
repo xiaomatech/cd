@@ -1,0 +1,22 @@
+http://www.cnblogs.com/itech/p/5875428.html
+http://www.cnblogs.com/zz0412/tag/jenkins/
+https://jenkins.io/doc/book/pipeline/jenkinsfile/
+http://www.cnblogs.com/itech/archive/2011/11/10/2244690.html
+http://www.cnblogs.com/itech/archive/2011/11/11/2245849.html
+
+项目名称：$PROJECT_NAME<br/>
+
+项目描述：${JOB_DESCRIPTION}<br/>
+
+构建编号：$BUILD_NUMBER<br/>
+
+构建状态：$BUILD_STATUS<br/>
+
+触发原因：${CAUSE}<br/>
+
+构建日志地址：<a href="${BUILD_URL}console">${BUILD_URL}console</a><br/>
+
+构建地址：<a href="$BUILD_URL">$BUILD_URL</a><br/><hr/>
+
+变更集:${JELLY_SCRIPT,template="html"}<br/>
+
