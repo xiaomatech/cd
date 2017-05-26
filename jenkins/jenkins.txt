@@ -20,3 +20,25 @@ http://www.cnblogs.com/itech/archive/2011/11/11/2245849.html
 
 变更集:${JELLY_SCRIPT,template="html"}<br/>
 
+jenkins插件
+Pipeline
+Blue Ocean
+Selenium
+GitLab
+Gitlab Hook
+EnvInject
+AWS CodeDeploy
+Marathon
+Ansible
+Kubernetes
+kubernetes pipeline
+Credentials
+Email Extension
+Gradle
+SSH Slaves
+Timestamper
+build timeout
+SonarQube Scanner
+Static Analysis Utilities
+Xcode
+Go
